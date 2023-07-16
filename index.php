@@ -104,9 +104,7 @@ if ($conn->connect_error) {
             font-size: 12px;
             color: #3333AA;
         }
-        .stilo2{
-modificacio nes y stage
-        }
+
     </style>
 </head>
 
