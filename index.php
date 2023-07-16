@@ -105,10 +105,7 @@ if ($conn->connect_error) {
             color: #3333AA;
         }
         .stilo2{
-dasd asd
-
-            asd
-            as
+modificacio nes y stage
         }
     </style>
 </head>
