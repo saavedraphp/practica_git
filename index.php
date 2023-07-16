@@ -105,7 +105,10 @@ if ($conn->connect_error) {
             color: #3333AA;
         }
         .stilo2{
+dasd asd
 
+            asd
+            as
         }
     </style>
 </head>
