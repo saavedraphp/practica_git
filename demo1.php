@@ -1,4 +1,1 @@
-<?php echo 'hermoso';
-echo 'musculoso y atletico';
-
-?>
+se realizaron modificacioens
