@@ -105,6 +105,10 @@ if ($conn->connect_error) {
             color: #3333AA;
         }
 
+        .stilo_nuevo2{
+            font-size: 12px;
+            color: #3333AA;
+        }
     </style>
 </head>
 
