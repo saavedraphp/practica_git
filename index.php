@@ -100,6 +100,9 @@ if ($conn->connect_error) {
         margin-right: 12px;
         }
 
+        .stilo_nuevo{
+            font-size: 12px;
+        }
     </style>
 </head>
 
