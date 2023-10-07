@@ -113,6 +113,7 @@ if ($conn->connect_error) {
         .stilo_nuevo3{
             font-size: 12px;
             color: #3333AA;
+            align-content: baseline;
         }
     </style>
 </head>
