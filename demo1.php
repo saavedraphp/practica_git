@@ -1,1 +1,1 @@
-Cambios a enviar stage
+Cambios a enviar stage git add -p
