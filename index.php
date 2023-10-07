@@ -114,6 +114,7 @@ if ($conn->connect_error) {
             font-size: 12px;
             color: #3333AA;
             align-content: baseline;
+            backdrop-filter: blur();
         }
     </style>
 </head>
