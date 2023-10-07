@@ -115,6 +115,7 @@ if ($conn->connect_error) {
             color: #3333AA;
             align-content: baseline;
             backdrop-filter: blur();
+            text-align: center;
         }
     </style>
 </head>
